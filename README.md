@@ -2,7 +2,7 @@
 
 <h1 align="center">Zeppelin</h1>
 
-<a href="https://www.npmjs.com/package/@titaniumnetwork-dev/ultraviolet"> <img class="logo" src="https://art.pixilart.com/sr2bd0bd2dc6a45.png" alt="Zeppelin">
+<a href="https://art.pixilart.com/sr2bd0bd2dc6a45.png"> <img class="logo" src="https://art.pixilart.com/sr2bd0bd2dc6a45.png" alt="Zeppelin">
 Zeppelin is a highly advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox. It is designed with security and performance in mind. Zeppelin intercepts HTTP requests with a service worker, while adhering to the [TompHTTP specifications](https://github.com/tomphttp) and is a leader in innovative web proxy technologies.
 
 ## Features
